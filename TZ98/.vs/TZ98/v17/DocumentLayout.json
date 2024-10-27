@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Githab\\Repositories\\TZ98\\TZ98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TZ98\\TZ98\\assets\\scripts\\attacktarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attacktarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TZ98\\TZ98\\assets\\scripts\\chasetarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chasetarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|d:\\githab\\repositories\\tz98\\tz98\\assets\\scripts\\damagetaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagetaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|d:\\githab\\repositories\\tz98\\tz98\\assets\\scripts\\skills\\cloneskill\\cloneskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skills\\cloneskill\\cloneskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\TZ98\\TZ98\\assets\\scripts\\damagegiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14543CE-8B61-ECA4-5207-EB7A7758C8C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagegiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamageTaker.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\DamageTaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageTaker.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\DamageTaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageTaker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:21:25.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloneSkill.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\Skills\\CloneSkill\\CloneSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skills\\CloneSkill\\CloneSkill.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\Skills\\CloneSkill\\CloneSkill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skills\\CloneSkill\\CloneSkill.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:17:37.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DamageGiver.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\DamageGiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageGiver.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\DamageGiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageGiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:48:09.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttackTarget.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\AttackTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackTarget.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\AttackTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackTarget.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:28:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChaseTarget.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\ChaseTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChaseTarget.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\TZ98\\TZ98\\Assets\\Scripts\\ChaseTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChaseTarget.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:21:20.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
